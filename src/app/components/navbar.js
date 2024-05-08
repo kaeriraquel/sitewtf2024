@@ -15,7 +15,7 @@ const Navbar = () => {
           </Link>
         </dev>
         <dev className="flex place-content-center ">
-          <Link href="/Entertainment">
+          <Link href="/entertainment">
             <b className="hover:text-white">Entertainment</b>
           </Link>
         </dev>
