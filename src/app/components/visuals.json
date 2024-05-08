@@ -1,0 +1,34 @@
+{
+  "visualsList": [
+    {
+      "id": "Animation",
+      "title": "Animation",
+      "description": "Scurry is Yo Mobile's first video game made by We The Force, and it was created to boost the participation of new developers in the Game Hub. We designed a 2D platform game with friendly characters truly challenging traps and obstacles, +150 collectibles, and accessories!",
+      "logo": "",
+      "bg": "",
+      "gallery": [],
+      "headerVideo": "",
+      "headerImage": ""
+    },
+    {
+      "id": "Film",
+      "title": "Film",
+      "description": "Test your skills and have fun in this musical rhythm game through its story mode and quick arcade mode featuring original songs by the titular band. Play as an elite band of hackers as you uncover digital mysteries in a futuristic cyberpunk setting. Aim for a new high score in each level to unlock journal entries that help you unravel the deeper mystery and form part of The Broken Society!",
+      "logo": "",
+      "bg": "",
+      "gallery": [],
+      "headerVideo": "",
+      "headerImage": ""
+    },
+    {
+      "id": "Video_Editing",
+      "title": "Video Editing",
+      "description": "Test your skills and have fun in this musical rhythm game through its story mode and quick arcade mode featuring original songs by the titular band. Play as an elite band of hackers as you uncover digital mysteries in a futuristic cyberpunk setting. Aim for a new high score in each level to unlock journal entries that help you unravel the deeper mystery and form part of The Broken Society!",
+      "logo": "",
+      "bg": "",
+      "gallery": [],
+      "headerVideo": "",
+      "headerImage": ""
+    }
+  ]
+}

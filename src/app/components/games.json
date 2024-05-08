@@ -1,0 +1,73 @@
+{
+  "gamesList": [
+    {
+      "id": "Scurry",
+      "title": "Scurry",
+      "description": "Scurry is Yo Mobile's first video game made by We The Force, and it was created to boost the participation of new developers in the Game Hub. We designed a 2D platform game with friendly characters, truly challenging traps, obstacles, +150 collectibles, original music, and accessories! Scurry is a play to earn game with hours of content. The game features a procedural generated city to explore with varied characters. Start your journey and join the Raccoon guild and climb the ranks to unlock powerful items and characters! Play time gives you access to YOYO$ which can be spent to earn access to various YO rewards! Available for download in both Android and Apple stores!",
+      "logo": "../assets/productAssets/Scurry/Logo.png",
+      "bg": "../assets/productAssets/Scurry/BG_Scurry.png",
+      "gallery": [
+        "../assets/productAssets/Scurry/Mockup_Cel01.png",
+        "../assets/productAssets/Scurry/Mockup_Cel02.png"
+      ],
+      "headerVideo": "",
+      "headerImage": "../assets/productAssets/Scurry/Portada.jpg"
+    },
+    {
+      "id": "Broken_Society",
+      "title": "Broken Society",
+      "description": "Test your skills and have fun in this musical rhythm game through its story mode and quick arcade mode featuring original songs by the titular band. Play as an elite band of hackers as you uncover the digital mysteries of a futuristic cyberpunk setting. Aim for a new high score in each level to unlock multiple journal entries that help you unravel the deeper mystery and form part of The Broken Society! In collaboration with YO, The Broken Society is also a play to earn game. Play time gives you access to YOYO$ which can be spent to earn access to various YO rewards! Available for download in both Android and Apple stores!",
+      "logo": "../assets/productAssets/TBS/Portada.jpg",
+      "bg": "../assets/productAssets/TBS/BG_TBS.png",
+      "gallery": [
+        "../assets/productAssets/TBS/Mockup_Cel01.png",
+        "../assets/productAssets/TBS/Mockup_Cel02.png"
+      ],
+      "headerVideo": "",
+      "headerImage": "../assets/productAssets/TBS/Portada.jpg"
+    },
+    {
+      "id": "Hotel_Inn",
+      "title": "Hotel Inn",
+      "description": "Step into the role of a hotel manager and immerse yourself in the world of Hotel Inn! From resolving guest requests to overseeing daily operations, your mission is to keep your guests happy! Play with friends in this hectic cooperative game as you strive to create the best hotel experience in the world. Can you rise to the top in this new exciting hotel management adventure? ",
+      "logo": "../assets/productAssets/Hotel/Logo_Hotel.png",
+      "bg": "../assets/productAssets/Hotel/BG_Hotel.png",
+      "gallery": ["../assets/productAssets/Hotel/Mockup_Lap.png"],
+      "headerVideo": "",
+      "headerImage": "../assets/productAssets/Hotel/Portada.jpg"
+    },
+    {
+      "id": "Carl_and_the_Plague",
+      "title": "Carl and the Plague",
+      "description": "Carl and the Plague is a simulation game about disease control. Every action you take will have a drastic impact on the economy, growth, and health of those impacted by the plague. You will singlehandedly cause the chaos or recuperation of the city. Your missions is to help Carl end the pandemic once and for all.",
+      "logo": "../assets/productAssets/Carl/Logo.png",
+      "bg": "../assets/productAssets/Carl/BG_Carl.png",
+      "gallery": [
+        "../assets/productAssets/Carl/Mockup_Cel01.png",
+        "../assets/productAssets/Carl/Mockup_Cel02"
+      ],
+      "headerVideo": "",
+      "headerImage": "../assets/productAssets/Carl/Pordada.jpg"
+    },
+    {
+      "id": "Randall",
+      "title": "Randall",
+      "description": "Randall is the first video game developed by We The Force avilable on Steam and the Playstation Sotre. Randall is a Metroidvania-like side scroller inspired by classic gaming titles. Randall will have to make his way through hordes of strong an powerful enemies and make use of his ability to manipulate the mind of his enemies to free the world from the tyrant that oppresses them. Throughout his journey Randall will discover his true self and learn what role he plays in this dystopian world.",
+      "logo": "../assets/productAssets/Randall/Logo_Randall.png",
+      "bg": "../assets/productAssets/Randall/BG_Randall.png",
+      "gallery": ["../assets/productAssets/Randall/Mockup_Lap.png"],
+      "headerVideo": "",
+      "headerImage": "../assets/productAssets/Randall/Portada.jpg"
+    },
+    {
+      "id": "Kim",
+      "title": "Kim",
+      "description": "Kim is a side-scroller action adventure game developed by We The Force. Help kim get revenge on the evil scientists and farmers that ravaged her body and turned her into the abomination she has become. Jump, punch, shoot, and charge your way through diverse levels inspired by classic sidescroller games. Unravel the mysteries of Kim's mutations as she tries to stop the world from descending into chaos in this exciting adventure game! ",
+      "logo": "../assets/productAssets/Kim/Logo_Kim.png",
+      "bg": "../assets/productAssets/Kim/BG_Kim.png",
+      "gallery": ["../assets/productAssets/Kim/LapMockup.png"],
+      "headerVideo": "",
+      "headerImage": "../assets/productAssets/Kim/Portada.png"
+    }
+  ]
+}

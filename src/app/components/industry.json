@@ -1,0 +1,45 @@
+{
+  "industryList": [
+    {
+      "id": "Assembly",
+      "title": "Assembly",
+      "description": "Inspect 3D models of real world constructs. Assembly helps keep track of a products lifetime and journey through production. It keeps track of all the moving pieces from workers who collaborated on the piece, incidents, and overseers ",
+      "logo": "../assets/productAssets/Assembly/Logo.png",
+      "bg": "../assets/productAssets/Assembly/BG_SV_Assembly.png",
+      "gallery": ["../assets/productAssets/Assembly/Mockup_iPad.png"],
+      "headerVideo": "",
+      "headerImage": "../assets/productAssets/Assembly/Portada.jpg"
+    },
+    {
+      "id": "Configuration",
+      "title": "Configuration",
+      "description": "Configuration is the best way to create, update, and upkeep your information in assembly. You can import your own models and customize them to convey the information needed whether its video, text, pdf, image, or a 3d model",
+      "logo": "../assets/productAssets/Configuration/Logo.png",
+      "bg": "../assets/productAssets/Configuration/BG.png",
+      "gallery": ["../assets/productAssets/Configuration/Mockup_iPad.png"],
+      "headerVideo": "",
+      "headerImage": "../assets/productAssets/Configuration/Portada.jpg"
+    },
+
+    {
+      "id": "VR_Training",
+      "title": "VR Training",
+      "description": "Train and practice real life skills from the comfort of virtual reality. With automated tests and scenarios, keep yourself and your workers up to date with accessible training features and data tracking.",
+      "logo": "../assets/productAssets/VR/Portada.jpg",
+      "bg": "../assets/productAssets/VR/BG_VR.png",
+      "gallery": [],
+      "headerVideo": "",
+      "headerImage": "../assets/productAssets/VR/Portada.jpg"
+    },
+    {
+      "id": "RiskHunters",
+      "title": "Risk Hunters",
+      "description": "Learn and play with Risk Hunters! With either a generic or custom version to teach either core knowledge or specialized knowledge. Play while you learn to handle yourself in the given scenario with Riskhunters!",
+      "logo": "../assets/productAssets/RiskHunter/Logo_RiskHunter.png",
+      "bg": "../assets/productAssets/RiskHunter/BG_RH.png",
+      "gallery": ["../assets/productAssets/RiskHunter/Mockup_Lap.png"],
+      "headerVideo": "",
+      "headerImage": "../assets/productAssets/RiskHunter/Portada.jpg"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "projectList": [
+    {
+      "id": "Scurry",
+      "title": "Scurry",
+      "description": "Scurry is Yo Mobile's first video game made by We The Force, and it was created to boost the participation of new developers in the Game Hub. We designed a 2D platform game with friendly characters truly challenging traps and obstacles, +150 collectibles, and accessories!",
+      "logo": "../assets/productAssets/Scurry/Logo.png",
+      "bg": "../assets/productAssets/Scurry/BG_Scurry.png",
+      "gallery": [
+        "../assets/productAssets/Scurry/Mockup_Cel01.png",
+        "../assets/productAssets/Scurry/Mockup_Cel02.png"
+      ],
+      "headerVideo": "",
+      "headerImage": "../assets/productAssets/Scurry/Portada.jpg"
+    },
+    {
+      "id": "Broken_Society",
+      "title": "Broken Society",
+      "description": "Test your skills and have fun in this musical rhythm game through its story mode and quick arcade mode featuring original songs by the titular band. Play as an elite band of hackers as you uncover digital mysteries in a futuristic cyberpunk setting. Aim for a new high score in each level to unlock journal entries that help you unravel the deeper mystery and form part of The Broken Society!",
+      "logo": "../assets/productAssets/TBS/Portada.jpg",
+      "bg": "../assets/productAssets/TBS/BG_TBS.png",
+      "gallery": [
+        "../assets/productAssets/TBS/Mockup_Cel01.png",
+        "../assets/productAssets/TBS/Mockup_Cel02.png"
+      ],
+      "headerVideo": "",
+      "headerImage": "../assets/productAssets/TBS/Portada.jpg"
+    },
+    {
+      "id": "Hotel_Inn",
+      "title": "Hotel Inn",
+      "description": "Step into the role of a hotel manager and immerse yourself in the world of Hotel Inn! From resolving guest requests to overseeing daily operations, your mission is to keep your guests happy! Playwith friends as you strive to create the best hotel experience in the world. Can you rise to the top in this new exciting hotel management adventure?",
+      "logo": "../assets/productAssets/Hotel/Logo_Hotel.png",
+      "bg": "../assets/productAssets/Hotel/BG_Hotel.png",
+      "gallery": ["../assets/productAssets/Hotel/Mockup_Lap.png"],
+      "headerVideo": "",
+      "headerImage": "../assets/productAssets/Hotel/Portada.jpg"
+    },
+    {
+      "id": "Carl_and_the_Plague",
+      "title": "Carl and the Plague",
+      "description": "Carl and the Plague is a simulation game about disease control. Every action you take will have a drastic impact on the economy, growth, and health of those impacted by the plague. You will singlehandedly cause the chaos or recuperation of the city. Your missions is to help Carl end the pandemic",
+      "logo": "../assets/productAssets/Carl/Logo.png",
+      "bg": "../assets/productAssets/Carl/BG_Carl.png",
+      "gallery": [
+        "../assets/productAssets/Carl/Mockup_Cel01.png",
+        "../assets/productAssets/Carl/Mockup_Cel02"
+      ],
+      "headerVideo": "",
+      "headerImage": "../assets/productAssets/Carl/Pordada.jpg"
+    },
+    {
+      "id": "Randall",
+      "title": "Randall",
+      "description": "Randall is the first video game developed by We The Force. Randall is a Metroidvania-like side scroller and is available on Steam and PS4.Randall will have to make his way through hordes of strong an powerful enemies using his ability to manipulate other ́s minds to help free the world from the tyrant that opresses them, and in this process discover hes true self and the role he plays in Sthis dystopian world.",
+      "logo": "../assets/productAssets/Randall/Logo_Randall.png",
+      "bg": "../assets/productAssets/Randall/BG_Randall.png",
+      "gallery": ["../assets/productAssets/Randall/Mockup_Lap.png"],
+      "headerVideo": "",
+      "headerImage": "../assets/productAssets/Randall/Portada.jpg"
+    }
+  ]
+}
