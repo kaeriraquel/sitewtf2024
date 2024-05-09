@@ -124,7 +124,7 @@ export default function Home() {
         {/* CAROUSEL. WILL BE HIDDEN ON LARGER SCREENS */}
         <div className="h-96 w-screen md:hidden">
           <Carousel>
-            <Link href="/Entertainment">
+            <Link href="/entertainment">
               <div
                 className="flex place-content-center place-self-center grid rows-auto h-80 rounded-lg content-end py-4"
                 style={{
@@ -136,7 +136,7 @@ export default function Home() {
                 }}
               >
                 <Link
-                  href="/Entertainment"
+                  href="/entertainment"
                   className="flex place-self-center place-content-center bg-wtfYellow text-wtfBlack rounded-lg "
                 >
                   <h1 className="text-center sf-font font-bold text-wtfBlack px-4 hover:text-white">
